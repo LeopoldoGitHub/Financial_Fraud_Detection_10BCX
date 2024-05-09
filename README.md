@@ -1,3 +1,74 @@
-# Financial_Fraud_Detection_10BCX
 
-Repositorio del proyecto de Machine Learning del grupo 10 , en el BootCamp Xperience
+# Descubriendo Patrones de Fraude:  Caso de PaySim
+
+![Logo](./img/img8.jpeg)
+
+
+
+La urgencia por detectar fraudes en transacciones móviles de dinero requiere soluciones innovadoras.
+ La empresa PaySim nos pidió desarrollar un modelo de machine learning para distinguir de manera precisa entre transacciones legítimas y fraudulentas,para definir un estándar de seguridad en el sector financiero móvil de la institución y de manera global.
+
+## Authors
+
+
+
+Leopoldo Flores
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LeopoldoGitHub)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldofloresc/)
+
+Giovanni Roncancio
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/giolml)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-roncancio-9090b378/)
+
+Christian Fernández
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Xavieroc93)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-fernandez-fraud-analyst/)
+
+Rodrigo Patiño Soler
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/bruxly)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-pati%C3%B1o-estudiante-ingeneria-sistemas/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+
+
+
+
+
+## Used By
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
+
