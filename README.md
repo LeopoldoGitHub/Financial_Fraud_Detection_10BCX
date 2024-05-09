@@ -13,34 +13,24 @@ La urgencia por detectar fraudes en transacciones móviles de dinero requiere so
 
 
 Leopoldo Flores
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/LeopoldoGitHub)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldofloresc/)
 
 Giovanni Roncancio
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/giolml)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-roncancio-9090b378/)
 
 Christian Fernández
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Xavieroc93)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-fernandez-fraud-analyst/)
 
 Rodrigo Patiño Soler
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/bruxly)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-pati%C3%B1o-estudiante-ingeneria-sistemas/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -51,15 +41,9 @@ Rodrigo Patiño Soler
 
 
 
-
-
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
+Python, Colab, Pandas, Trello, 
 
 
 
@@ -69,6 +53,6 @@ Rodrigo Patiño Soler
 
 This project is used by the following companies:
 
-- Company 1
-- Company 2
+- PaySim
+- Global Fintech
 
