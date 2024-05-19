@@ -30,11 +30,6 @@ Christian Fernández
 
 
 
-## Screenshots
-[Uploading Financial Fraud Detection G10.pdf…]()
-
-
-
 
 
 ## Tech Stack
