@@ -31,8 +31,9 @@ Christian Fernández
 
 
 ## Screenshots
+[Uploading Financial Fraud Detection G10.pdf…]()
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 
