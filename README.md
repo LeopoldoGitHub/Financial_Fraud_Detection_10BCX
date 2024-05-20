@@ -28,7 +28,11 @@ Christian Fernández
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-fernandez-fraud-analyst/)
 
 
+# Documentación del Proyecto
 
+Para ver la documentación completa, por favor [haga clic aquí para descargar el PDF](https://github.com/tu_usuario/tu_repositorio/blob/main/documento.pdf).
+
+![Ver PDF](https://github.com/tu_usuario/tu_repositorio/blob/main/documento.pdf)
 
 
 
