@@ -30,18 +30,17 @@ Christian Fernández
 
 # Documentación del Proyecto
 
-Para ver la documentación completa, por favor [haga clic aquí para descargar el PDF](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/Financial%20Fraud%20Detection%20G10.pdf).
-
 Vea la presentación en un click...
 [![Ver PDF](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/img/caratula.png)](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/Financial%20Fraud%20Detection%20G10.pdf)
 
 ---
 
 Para una mejor experiencia, recomendamos descargar el documento PDF y abrirlo en su lector de PDF preferido.
+Por favor [haga clic aquí para descargar el PDF](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/Financial%20Fraud%20Detection%20G10.pdf).
 
 ## Tech Stack
 
-Python, Colab, Pandas, Trello, 
+Python, Colab, Pandas, Trello, GCP, 
 
 
 
