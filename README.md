@@ -30,9 +30,9 @@ Christian Fernández
 
 # Documentación del Proyecto
 
-Para ver la documentación completa, por favor [haga clic aquí para descargar el PDF](https://github.com/tu_usuario/tu_repositorio/blob/main/documento.pdf).
+Para ver la documentación completa, por favor [haga clic aquí para descargar el PDF](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/Financial%20Fraud%20Detection%20G10.pdf).
 
-![Ver PDF](https://github.com/tu_usuario/tu_repositorio/blob/main/documento.pdf)
+![Ver PDF]((https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/Financial%20Fraud%20Detection%20G10.pdf))
 
 
 
