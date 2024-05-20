@@ -32,7 +32,7 @@ Christian Fernández
 
 Para ver la documentación completa, por favor [haga clic aquí para descargar el PDF](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/Financial%20Fraud%20Detection%20G10.pdf).
 
-[![Ver PDF]([https://img.icons8.com/ios-filled/50/000000/pdf.png](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/img/caratula.png))](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/Financial%20Fraud%20Detection%20G10.pdf)
+[![Ver PDF]([https://img.icons8.com/ios-filled/50/000000/pdf.png)](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/img/caratula.png))](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/Financial%20Fraud%20Detection%20G10.pdf)
 
 
 ## Tech Stack
