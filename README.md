@@ -38,10 +38,14 @@ Vea la presentación en un click...
 Para una mejor experiencia, recomendamos descargar el documento PDF y abrirlo en su lector de PDF preferido.
 Por favor [haga clic aquí para descargar el PDF](https://github.com/LeopoldoGitHub/Financial_Fraud_Detection_10BCX/blob/main/Financial%20Fraud%20Detection%20G10.pdf).
 
-## Tech Stack
+## 
 
-Python, Colab, Pandas, Trello, GCP, 
+<h2>Tech Stack </h2>
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)](https://trello.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)
 
 
 ## Used By
